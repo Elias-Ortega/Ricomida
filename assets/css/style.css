@@ -1,0 +1,125 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#barra {
+    background-color: #373A3C;
+
+}
+
+#logo {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    color: #FFFFFF;
+    margin-left: 100px;
+    font-size: 37pt;
+    text-align: center;
+}
+
+.ul-links {
+    font-family: "Cabin", sans-serif;
+    font-weight: 400;
+    color: #FFFFFF;
+
+}
+
+#img-principal {
+    height: 384px;
+    width: 482px;
+    background-repeat: no-repeat;
+    float: center;
+
+}
+
+.title-main {
+    font-family: "Cabin", sans-serif;
+    font-weight: 700;
+    color: #373A3C;
+    float: left;
+    clear: left;
+}
+
+
+.button-container {
+    display: inline-block;
+    margin-top: 20px;
+
+}
+
+.button-container button {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.underline {
+    border-bottom: 2px solid #373A3C;
+    display: inline-block;
+
+}
+
+.carousel-indicators [data-bs-target] {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+h2 {
+    font-family: "Cabin",
+        sans-serif;
+    color: #373A3C;
+    font-weight: 700;
+    text-align: center;
+}
+
+#suscribe {
+    background-color: #DC3545;
+    height: 500px;
+}
+
+#h2-suscribe {
+    font-family: "Cabin", sans-serif;
+    color: #FFFFFF;
+    font-weight: 700;
+    text-align: center;
+}
+
+#p-suscribe {
+    font-family: "Cabin", sans-serif;
+    font-size: 20pt;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+span {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    color: #FFFFFF;
+    font-size: 37pt;
+}
+
+#btnEmpezar {
+    font-family: "Cabin", sans-serif;
+    color: #FFFFFF;
+    font-weight: 400;
+    border: 1px solid white;
+}
+
+footer {
+    background-color: #373A3C;
+}
+
+
+#marca {
+    display: inline-block;
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    color: #FFFFFF;
+    font-size: 37pt;
+    margin: 0;
+
+}
+
+#pie-pagina {
+    height: 125px;
+}
